@@ -8,5 +8,11 @@
 <body>
     <h1>coba git lagi</h1>
     <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Veniam, voluptates voluptatibus rem provident consequatur dolor quod necessitatibus expedita officia tenetur quibusdam! Asperiores quasi maiores repellendus eum sint, quam soluta! Quae!</p>
+    <ul>
+        <li>
+            tes : shiddiq
+        </li>
+        <li>tes : radea</li>
+    </ul>
 </body>
 </html>
